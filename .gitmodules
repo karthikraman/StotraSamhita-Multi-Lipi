@@ -1,0 +1,3 @@
+[submodule "source/stotra-sangrahah-devanagari"]
+	path = source/stotra-sangrahah-devanagari
+	url = https://github.com/StotraSamhita/stotra-sangrahah
