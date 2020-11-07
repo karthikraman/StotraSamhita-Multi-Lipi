@@ -11,14 +11,16 @@ anusvaraVisarga = "\u0902?\u0903?"
 prefix = sys.argv[1]
 
 LipiSwapTable = {
-    'grantha': {'font': 'Noto Serif Grantha', 'script': 'Grantha', 'scale': 0.8},
+    'grantha': {'font': 'Noto Serif Grantha', 'script': 'Grantha', 'scale': 0.5},
     'tamil': {'font': 'Noto Serif Tamil', 'script': 'Tamil', 'scale': 0.8},
     'telugu': {'font': 'Mandali', 'script': 'Telugu', 'scale': 0.9},
+    'kannada': {'font': 'Noto Serif Kannada', 'script': 'Kannada', 'scale': 0.9},
+    'tamilgrantha': {'font': 'Agastya Serif', 'script': 'Malayalam', 'scale': 0.5},
 }
 
-for out_script in ['tamil', 'telugu']:
-    for ext in ['tex', 'sty']:
-        for fname in glob.iglob('stotra-sangrahah-devanagari/' + '**/*.%s' % ext, recursive=True):
+for out_script in ['tamil', 'telugu', 'grantha', 'kannada', 'tamilgrantha']:
+    for ext in ['tex', 'sty', 'sh']:
+        for fname in glob.iglob('%s/' % prefix + '**/*.%s' % ext, recursive=True):
             orig_folder_name = os.path.dirname(fname)
             folder_name = os.path.dirname(fname).replace('devanagari', out_script)
             os.makedirs(folder_name, exist_ok=True)
@@ -29,8 +31,9 @@ for out_script in ['tamil', 'telugu']:
                     for line in f.readlines():
                         z = re.sub(f"({syllable}){anudatta}({anusvaraVisarga})", "\\\\ul{\\1\\2}", line.strip('\n'))
                         z = re.sub(f"({syllable})({anusvaraVisarga}){anudatta}", "\\\\ul{\\1\\2}", z)
-                        z = z.replace('Script=Devanagari', 'Scale=%f,Script=%s' % (LipiSwapTable[out_script]['scale'], LipiSwapTable[out_script]['script']))
+                        z = z.replace('Script=Devanagari', 'Scale=%0.2f,Script=%s' % (LipiSwapTable[out_script]['scale'], LipiSwapTable[out_script]['script']))
                         z = z.replace('Sanskrit 2003', '%s' % LipiSwapTable[out_script]['font'])
+                        z = z.replace('Siddhanta', '%s' % LipiSwapTable[out_script]['font'])
                         z = z.replace('॰', '.')  # Replace dng abbr with dot in all other scripts
                         z = xsanscript.transliterate(z, 'devanagari', out_script)
                         z = z.replace('', ':').replace('', ':').replace("ʼ", "'")
@@ -46,8 +49,8 @@ for out_script in ['tamil', 'telugu']:
                             maatraas = ["ா", "ி", "ீ", "ு", "ூ", "்ரு'", "்ரூ'", "்லு'", "்லூ'", "ெ", "ே", "ை", "ொ", "ோ", "ௌ", "்"]
                             z = z.replace('ँ', 'ன்')
                             z = z.replace('1॒॑', '\\dng{१॒॑}')
-                            z = z.replace('।', '\\danda{}')
-                            z = z.replace('॥', '\\ddanda{}')
+                            # z = z.replace('।', '\\danda{}')
+                            # z = z.replace('॥', '\\ddanda{}')
                             for m in maatraas:
                                 for sup in "²³⁴":
                                     src = '%s%s' % (sup, m)
