@@ -4,3 +4,15 @@
 [submodule "source/vedamantra-book-devanagari"]
 	path = source/vedamantra-book-devanagari
 	url = https://github.com/StotraSamhita/vedamantra-book
+[submodule "source/stotra-sangrahah/stotra-sangrahah-tamil"]
+	path = source/stotra-sangrahah/stotra-sangrahah-tamil
+	url = https://github.com/StotraSamhita/stotra-sangrahah-tamil
+[submodule "source/stotra-sangrahah/stotra-sangrahah-telugu"]
+	path = source/stotra-sangrahah/stotra-sangrahah-telugu
+	url = https://github.com/StotraSamhita/stotra-sangrahah-telugu
+[submodule "source/stotra-sangrahah/stotra-sangrahah-grantha"]
+	path = source/stotra-sangrahah/stotra-sangrahah-grantha
+	url = https://github.com/StotraSamhita/stotra-sangrahah-grantha
+[submodule "source/stotra-sangrahah/stotra-sangrahah-tamilgrantha"]
+	path = source/stotra-sangrahah/stotra-sangrahah-tamilgrantha
+	url = https://github.com/StotraSamhita/stotra-sangrahah-tamilgrantha
