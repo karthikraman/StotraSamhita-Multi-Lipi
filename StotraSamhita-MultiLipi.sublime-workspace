@@ -1,0 +1,2496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"out_script"
+			],
+			[
+				"trans",
+				"trans_word\tstatement"
+			],
+			[
+				"sanga",
+				"sangava_end\tstatement"
+			],
+			[
+				"sang",
+				"sangava_start\tstatement"
+			],
+			[
+				"samv",
+				"samvatsara_names"
+			],
+			[
+				"DE",
+				"DEVANAGARI"
+			],
+			[
+				"special",
+				"special-vratams"
+			],
+			[
+				"D",
+				"Dvadashi"
+			],
+			[
+				"we",
+				"weekday"
+			],
+			[
+				"tit",
+				"tithi_sunrise"
+			],
+			[
+				"add",
+				"addFestival"
+			],
+			[
+				"month_",
+				"month_data"
+			],
+			[
+				"solar",
+				"solar_eclipse_str\tstatement"
+			],
+			[
+				"deb",
+				"debugFestivals"
+			],
+			[
+				"festi",
+				"festival_name"
+			],
+			[
+				"festiv",
+				"festival_rules"
+			],
+			[
+				"ASA",
+				"ASADha"
+			],
+			[
+				"other",
+				"other-jayantis"
+			],
+			[
+				"festiva",
+				"festival_name"
+			],
+			[
+				"dash",
+				"dashamahavidya"
+			],
+			[
+				"Mahapur",
+				"mahapurusha-events"
+			],
+			[
+				"next_",
+				"next_new_moon_start\tstatement"
+			],
+			[
+				"this_ne",
+				"this_new_moon_start\tstatement"
+			],
+			[
+				"jd_",
+				"jd_sunrise\tstatement"
+			],
+			[
+				"rev",
+				"revjul\tfunction"
+			],
+			[
+				"next_new_moon",
+				"next_new_moon_start\tstatement"
+			],
+			[
+				"last_new",
+				"last_new_moon_start\tstatement"
+			],
+			[
+				"get_a",
+				"get_angam_span\tfunction"
+			],
+			[
+				"fes",
+				"festival_rules\tstatement"
+			],
+			[
+				"st",
+				"stext\tstatement"
+			],
+			[
+				"wri",
+				"write\tfunction"
+			],
+			[
+				"event_",
+				"event_name\tforstmt"
+			],
+			[
+				"event",
+				"event_name\tforstmt"
+			],
+			[
+				"json",
+				"json_file\tstatement"
+			],
+			[
+				"cal",
+				"cal_file_name\tstatement"
+			],
+			[
+				"js",
+				"json_file\tstatement"
+			],
+			[
+				"summ",
+				"summary_text\tstatement"
+			],
+			[
+				"M",
+				"Month"
+			],
+			[
+				"get_lan",
+				"get_lagna_float\tfunction"
+			],
+			[
+				"in",
+				"init_names_auto\tfunction"
+			],
+			[
+				"lagn",
+				"lagna_data_str\tstatement"
+			],
+			[
+				"laga",
+				"lagna_list\tstatement"
+			],
+			[
+				"com",
+				"compute_lagna_data\tfunction"
+			],
+			[
+				"lag",
+				"lagna_data\tstatement"
+			],
+			[
+				"la",
+				"lagna_end_time\tstatement"
+			],
+			[
+				"lagna",
+				"lagna_list\tstatement"
+			],
+			[
+				"compute_",
+				"compute_lagna_float\tfunction"
+			],
+			[
+				"help",
+				"helper_functions\tmodule"
+			],
+			[
+				"prad",
+				"pradosha-vratam-days"
+			],
+			[
+				"motn",
+				"monthly-vratams"
+			],
+			[
+				"skandas",
+				"skandashashthi-vratam"
+			],
+			[
+				"spec",
+				"special-vratams"
+			],
+			[
+				"rar",
+				"rare-days"
+			],
+			[
+				"tamil",
+				"tamilnadu-temple-festivals"
+			],
+			[
+				"tami",
+				"tamilnadu-temple-festivals"
+			],
+			[
+				"sp",
+				"special-pujas"
+			],
+			[
+				"purn",
+				"purnima-days"
+			],
+			[
+				"spe",
+				"special-pujas"
+			],
+			[
+				"spc",
+				"special-pujas"
+			],
+			[
+				"speci",
+				"special-pujas"
+			],
+			[
+				"mahap",
+				"mahapurusha-events"
+			],
+			[
+				"fest",
+				"festival"
+			],
+			[
+				"pur",
+				"purnima-days"
+			],
+			[
+				"spci",
+				"special-pujas"
+			],
+			[
+				"month",
+				"monthly-vratams"
+			],
+			[
+				"amavas",
+				"amavasya-days"
+			],
+			[
+				"specia",
+				"special-vratams"
+			],
+			[
+				"moon",
+				"moon-sankranti"
+			],
+			[
+				"snana",
+				"special-snanam"
+			],
+			[
+				"navar",
+				"navaratri-end"
+			],
+			[
+				"period",
+				"special-period-start"
+			],
+			[
+				"navara",
+				"navaratri-start"
+			],
+			[
+				"vrata",
+				"vratam-start"
+			],
+			[
+				"adi-",
+				"adi-shankara-history"
+			],
+			[
+				"devata",
+				"devata-pujas"
+			],
+			[
+				"mahapu",
+				"mahapurusha-jayanti"
+			],
+			[
+				"le",
+				"less-common-festivals"
+			],
+			[
+				"purana",
+				"purana-events"
+			],
+			[
+				"popul",
+				"popular-festivals"
+			],
+			[
+				"yuga",
+				"yugadi"
+			],
+			[
+				"hel",
+				"helper_functions\tmodule"
+			],
+			[
+				"jd_sun",
+				"jd_sunSet\tstatement"
+			],
+			[
+				"loc_",
+				"loc_origin\tparam"
+			],
+			[
+				"shloka",
+				"shloka_text\tstatement"
+			],
+			[
+				"shl",
+				"shloka_lines\tstatement"
+			],
+			[
+				"kANDa",
+				"kandanum\tstatement"
+			],
+			[
+				"kand",
+				"kandanum\tstatement"
+			],
+			[
+				"kan",
+				"kANDa\tstatement"
+			],
+			[
+				"sarga",
+				"sarganum\tstatement"
+			],
+			[
+				"sarg",
+				"sarganum\tstatement"
+			],
+			[
+				"ka",
+				"kandanum\tstatement"
+			],
+			[
+				"next",
+				"nextline"
+			],
+			[
+				"sh",
+				"shlokanum\tstatement"
+			],
+			[
+				"ve",
+				"verses\tstatement"
+			],
+			[
+				"nA",
+				"nAmAlist\tstatement"
+			],
+			[
+				"verse",
+				"verse_list\tstatement"
+			],
+			[
+				"ch",
+				"chandasList\tstatement"
+			],
+			[
+				"page",
+				"pageName\tstatement"
+			],
+			[
+				"ver",
+				"verse_list\tstatement"
+			],
+			[
+				"read",
+				"read_text"
+			],
+			[
+				"time",
+				"time_course_data\tstatement"
+			],
+			[
+				"set",
+				"setGlobalParameterValues"
+			],
+			[
+				"get",
+				"setGlobalParameterValues"
+			],
+			[
+				"tim",
+				"time_course_data"
+			],
+			[
+				"NU",
+				"NUM_PARAMS"
+			],
+			[
+				"de",
+				"degludec_ode"
+			],
+			[
+				"nor",
+				"normalise\tfunction"
+			],
+			[
+				"y",
+				"ylabel\tfunction"
+			],
+			[
+				"para",
+				"param_set\tforstmt"
+			],
+			[
+				"deg",
+				"degludec_compute_err"
+			],
+			[
+				"sam",
+				"sample_params\tfunction"
+			],
+			[
+				"scipy",
+				"scipy_fmin\tclass"
+			],
+			[
+				"fr",
+				"freeze_support\tfunction"
+			],
+			[
+				"mul",
+				"multiprocessing\tmodule"
+			],
+			[
+				"deglu",
+				"degludec_ode\tmodule"
+			],
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"k",
+				"k_d"
+			],
+			[
+				"I_",
+				"I_fsc"
+			],
+			[
+				"I_f",
+				"I_fsc"
+			],
+			[
+				"mat",
+				"matplotlib\tmodule"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"x",
+				"xdot"
+			],
+			[
+				"pri",
+				"print_function\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/stotra-sangrahah-devanagari/preamble.tex",
+			"settings":
+			{
+				"buffer_size": 1912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/stotra-sangrahah-devanagari/stotras/dhyanam/GuruParampara.tex",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/trans.py",
+			"settings":
+			{
+				"buffer_size": 4011,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/vedamantra-book-grantha/BrahmanamBook-rM.tex",
+			"settings":
+			{
+				"buffer_size": 1850,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/stotra-sangrahah-telugu/shloka.sty",
+			"settings":
+			{
+				"buffer_size": 17105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"tab",
+				"AlignTab: Table Mode"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"1 t",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"Lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"fold",
+				"Filter Lines: Fold Excluding Regex"
+			],
+			[
+				"fo",
+				"Filter Lines: Fold Excluding Regex"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"fold ex",
+				"Filter Lines: Fold Excluding Regex"
+			],
+			[
+				"un",
+				"Code Folding: Unfold All"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"excluding",
+				"Filter Lines: Fold Excluding Regex"
+			],
+			[
+				"Upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"0",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"au",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"indn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"aut",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"auto",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"at",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"lign",
+				"AlignTab"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"count",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"texp",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"te",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"al",
+				"AlignTab"
+			],
+			[
+				"Tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"past",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"texpas1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"ssma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"textp1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"t",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"past 1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"ssmat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"beamer",
+				"Snippet: beamercols"
+			],
+			[
+				"text past",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"PEP",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"text pa",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"textpa",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"sstex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"textpast",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold ",
+				"Filter Lines: Fold With Regex"
+			],
+			[
+				"filter",
+				"Filter Lines: Filter With Regex"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"autopep",
+				"Preferences: AutoPep8 Settings – Default"
+			],
+			[
+				"pep",
+				"Preferences: AutoPep8 Settings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"autoco",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"anaco",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"bui",
+				"Build With: Anaconda Python Builder"
+			],
+			[
+				"anac",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"latextools",
+				"LaTeXTools: View package documentation"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari"
+	],
+	"file_history":
+	[
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/vedamantra-book-grantha/BrahmanamBook-rM.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/stotras/dhyanam/GuruParampara.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/trans.py",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-grantha/shloka.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-grantha/stotras.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-grantha/stotras/purti/KshamaPrarthana.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-telugu/shloka.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-telugu/stotras/dhyanam/GuruParampara.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/shloka.sty",
+		"/D/GitHub/kamakoti/Asthika-Dharma-PDFs/RigVedaSandhya/smarta-tamil/Sandhya-RV-tamil.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/xsanscript.py",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-tamil/shloka.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-tamil/stotras/dhyanam/Dhyanam.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-tamil/stotras/big/LalitaTrishati.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-tamil/preamble.tex",
+		"/D/GitHub/jyotisha/jyotisha_tests/spatio_temporal/data/daily-cal-2019-Chennai-deva-correct.tex",
+		"/D/GitHub/jyotisha/jyotisha_tests/spatio_temporal/data/daily-cal-2019-Chennai-deva-new.tex",
+		"/D/GitHub/jyotisha/jyotisha_tests/spatio_temporal/data/daily-cal-2018-Chennai-deva.tex",
+		"/D/GitHub/jyotisha/jyotisha_tests/spatio_temporal/data/daily-cal-2019-Chennai-deva.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/stotras-kindle-pdf/tex2pdf.sh",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/shloka.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/latex-styles/stotrasamhita.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/latex-styles/shloka-multilang.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/preamble.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/latex-styles/shloka.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/stotras/dhyanam/VigneshwaraPrarthana.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/latex-styles/shloka-multilang.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/latex-styles/stotrasamhita.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/shloka-print.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/preface-2e.tex",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/shloka.toc",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/compilations/adhyatma-ramayana-stotras/shloka.sty",
+		"/D/GitHub/StotraSamhita/StotraSamhita-Multi-Lipi/source/stotra-sangrahah-devanagari/compilations/adhyatma-ramayana-stotras/frontmatter.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/3_DynamicModels/ParameterEstimation.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.bib",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/3_DynamicModels/IntroductionToDynamicModelling.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/2_NetworkBiology/ApplicationsOfNetworkBiology.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/5_AdvancedTopics/TheRoadAhead.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/2_NetworkBiology/StructureOfBiologicalNetworks.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Alon.cls",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/frontmatter/preamble.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/frontmatter/preface.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/E_MATLABForSystemsBiology/MATLABForSystemsBiology.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/C_DatabasesForSystemsBiology/DatabasesForSystemsBiology.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/D_SoftwareToolsCompendium/SoftwareToolsCompendium.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.ind",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/A_BiologyFundamentals/BiologyFundamentals.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/2_NetworkBiology/IntroductionToGraphTheory.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/5_AdvancedTopics/ModellingCellularInteractions.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/4_ConstraintBasedModelling/OtherConstraint-basedApproaches.tex",
+		"/D/GitHub/kamakoti/VDSP-sankalpa-PDFs/2020-ShriJayendraPeriyavaJayanti/ShriJayendraPeriyavaJayanti-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/GuruPujaPaddhati-grantha.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/GuruPujaPaddhati-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/ShankaraPujaPaddhati-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/ShriJayendraPeriva-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/trans-select.py",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/Swasti-grantha.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/Swasti-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-GuruPujaPaddhati/Totakashtakam-devanagari.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/AltText.tex",
+		"/D/Downloads/test/docs/config.toml",
+		"/D/GitHub/StotraSamhita/updateDropboxKindlePDFs.bat",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Bibliography.bib",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/4_ConstraintBasedModelling/PerturbationsToMetabolicNetworks.tex",
+		"/C/Users/Karthik/Dropbox (Personal)/SethuBandhanam/sjvp-receipts/CanaraBank/give-export-payments-06-2020.csv",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/5_AdvancedTopics/RobustnessEvolvability.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/5_AdvancedTopics/DesigningBiologicalCircuits.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/3_DynamicModels/BooleanModels.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/4_ConstraintBasedModelling/FluxBalanceAnalysis.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/1_IntroductionToModelling/IntroductionToModelling.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/.gitignore",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.idx",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.ilg",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/sbbook.idx",
+		"/D/GitHub/StotraSamhita/vedamantra-book/mantras/Sandhyavandanam.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/latexindent-settings.yaml",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.sublime-project",
+		"/D/GitHub/StotraSamhita/stotra-sangrahah/compilations/bala-patha/jyautisha-bala-patha.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/run_diagnostics.sh",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/SystemsBiology/2020/tests/endsem/BT5240-2020-endsem.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/SystemsBiology/2019/tests/endsem/BT5240-2019-endsem.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/TeX reports the error was in file",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook.toc",
+		"/C/Users/Karthik/Desktop/reactions.txt",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/PhD/Thesis/bib/thesis.bib",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/3_DynamicModels/figs/hill_curve.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/NMBio/2019/slides/template.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/Apps/Overleaf/plos-latex-template/plos-latex-template.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/B_ReconstructionOfNetworks/ReconstructionOfNetworks.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/searchdoi.py",
+		"/D/Downloads/aiaa_6.2006-7242.bib",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook-books.bib",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/SBBook-hyperref/frontmatter/preamble.tex",
+		"/C/Users/Karthik/AppData/Local/Temp/Temp1_plos-latex-template.zip/plos_latex_template.tex",
+		"/D/Downloads/noname",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook-feedback/SBBook-idx.csv",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/SystemsBiology/2019/tests/midsem/BT5240-2019-midsem.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/4_ConstraintBasedModelling/figs/13C-MFA_flowchart.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/3_DynamicModels/figs/ga_flowchart.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/[no file]",
+		"/D/Downloads/Karthik SBBook-hyperref/SBBook-test.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/4_ConstraintBasedModelling/figs/flux_space_moma.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Talks/2018/ASP/Raman-CompMetNet.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/MetabolicRegulation/2012/assignments/hw-01/BT3190-2012-hw-01-metabolic-networks.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/Courses/SystemsBiology/2013/tests/quiz-3/BT5240-2013-quiz-3.tex",
+		"/C/Gurobi811/win64/matlab/README",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/2_NetworkBiology/figs/centralities.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-ShankaraPujaPaddhati/ShankaraPujaPaddhati-devanagari.tex",
+		"/D/GitHub/kamakoti/Nerur-Shankara-Matham-PDFs/2020-AcharyaAvataraGhatta-wmeaning/AcharyaAvataraGhatta-devanagari.tex",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/cross-refs.txt",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/cross-ref-edges.txt",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/Chapters/5_AdvancedTopics/SystemsBiologyInHealthAndDisease.tex",
+		"/C/Users/Karthik/OneDrive - IIT-Madras(IC&SR)/BackupVault/postd/CV/sri/tags/2010-IITM-app/sri.tex",
+		"/C/Users/Karthik/OneDrive - IIT-Madras(IC&SR)/BackupVault/postd/CV/sri/tags/2010-IITM-app/thesis.bib",
+		"/C/Users/Karthik/Dropbox (Personal)/SethuBandhanam/sjvp-receipts/2020-05 tiruchendur/CanaraBank-receipts-2020-SJ-TC-SB.csv",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook-Res/templates/chapter1/ch1.tex",
+		"/D/GitHub/StotraSamhita/TulaKaveriMahatmyam/TulaKaveriMahatyam.tex",
+		"/C/Users/Karthik/Desktop/genonets_sample_input.txt",
+		"/C/Users/Karthik/Dropbox/Software/Sublime Text Build 3114 x64/Data/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Karthik/Dropbox/Software/Sublime Text Build 3114 x64/Data/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/C/Users/Karthik/Dropbox/Software/Sublime Text Build 3114 x64/Data/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/Karthik/Dropbox/Software/Sublime Text Build 3114 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Karthik/Dropbox/Software/Sublime Text Build 3114 x64/Data/Packages/LaTeXTools/Text italicise.sublime-snippet",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/refs.txt",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/IITM/PaperDrafts/SBBook/codes/matlab.mat",
+		"/D/Karthik/GitHub/StotraSamhita/rebuildAllTeX.sh",
+		"/C/Users/Karthik/Dropbox (Raman Lab)/My papers/Books/01-Ravikrishnan2018Systems-level/focus-book-master/references.bib"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"*.tex",
+			"",
+			"*.tex",
+			"",
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"danda",
+			"fname",
+			"सर्व-सफला-एकादशी",
+			"सफ",
+			"सर्व-सफला-एकादशी",
+			"fontsize",
+			"fontsi",
+			"select",
+			"sect",
+			"chapt",
+			"ifbool",
+			"dng",
+			"\\fontspec[FakeBold=1.0,FakeStretch=1.0,Script=Devanagari,Mapping=tex-text]{Sanskrit 2003}",
+			"chapter",
+			"section{",
+			"cft",
+			"tocl",
+			"\\\\font \\\\x=\"Sanskrit 2003:script=deva\" at [0-9][0-9]pt\\\\x",
+			"\\\\font \\\\x=\"Sanskrit 2003:script=deva\" at [0-9][0-9]pt\\x",
+			"Sanskrit 2003",
+			"Nerur",
+			"\\(ODEs",
+			"(ODEs",
+			"Numerical re",
+			"these mo",
+			"stiff",
+			"MakeLowerc",
+			"ODEs",
+			"continuous",
+			"~\\\\ref{s",
+			"~\\ref{s",
+			"[^$]\\\\ref{s",
+			"series = ",
+			"SNP",
+			"\\\\ell",
+			"ell",
+			"\\\\ell",
+			"KEGG",
+			"two different",
+			"However[.\\n]*However",
+			"However.*However",
+			"However",
+			"conditional shift",
+			"GWAS",
+			"unsuper",
+			"predicting_essential_genes_from_networks",
+			"website",
+			"appsec:solving",
+			"appsec:solving_odes_in_matlab",
+			"{sec",
+			"appsec:",
+			"ifappen",
+			"Bsub",
+			"tuberculosis",
+			"Mycobacterium",
+			"Cgl",
+			"Parise2",
+			"LIPID M",
+			"Cory",
+			"Santos-",
+			"sidewaystable",
+			"index",
+			"MIPS",
+			"IntAct",
+			"DIP",
+			"mimix",
+			"REANDA",
+			"{sub:",
+			"ifappe",
+			"inclu",
+			"include{",
+			"include",
+			".tex",
+			"devanagari",
+			"%",
+			"श्रीमत्-शङ्करभगवत्पादाचार्येभ्यो नमः",
+			"श्रीमत्-शङ्करभगवत्पादाचार्याः",
+			"श्रीमत्-शङ्करभगवत्पादाचार्यान्",
+			"श्रीमत्-शङ्करभगवत्\\-पादाचार्य",
+			"blue",
+			"pagenu",
+			"\\\\ref{fig",
+			"\\ref{fig",
+			"\\[\\\\\\\\ref{fig",
+			"[\\\\ref{fig",
+			"[\\ref{fig",
+			"markright",
+			"\\\\mark",
+			"mark{",
+			"rightmark",
+			"{chapter}",
+			"ifstar",
+			"addcon",
+			"chapter",
+			"numberlin",
+			"chapter",
+			"Michaelis-Menten",
+			"velocity",
+			"--",
+			"label",
+			"Imam2",
+			"overlapping",
+			"Shoemaker",
+			"Recon*[12]",
+			"Recon.[12]",
+			"Recon",
+			"Thiele2013",
+			"Robinson2",
+			"Varma1994S",
+			"Ravikrishnan2018E",
+			"Thiele2010P",
+			"Newman2002Sp",
+			"Kaltenb",
+			"Hartwell19",
+			"Hanly2012",
+			"Wagner2005C",
+			"Seif2",
+			"Sambamoor",
+			"Sahoo2019M",
+			"Raghunathan2009",
+			"Henry2009",
+			"scope",
+			"Guimera2009",
+			"Guimera2",
+			"Eckha",
+			"Eckh",
+			"Greene200",
+			"Greene2003C"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"macromolecul",
+			"Equations~\\\\ref",
+			"\\\\compactitems",
+			"Equation~",
+			"label{app",
+			"{Palsson, Bernhard Ø.}",
+			"Figure~\\\\",
+			"Fig.~\\\\",
+			"Fig.~\\",
+			"index{\\1, \\2",
+			"index{\\1,\\2",
+			"% REFERENCES\n\n\\\\freading{",
+			"freading{nocite}{",
+			"knock-out",
+			"\\1, etc.",
+			"\\\\keyword{\\1}",
+			"objective",
+			"]",
+			"["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/stotra-sangrahah-devanagari/preamble.tex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/stotra-sangrahah-devanagari/stotras/dhyanam/GuruParampara.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/trans.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1723,
+								1723
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1723,
+										1724
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1713,
+										1714
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/vedamantra-book-grantha/BrahmanamBook-rM.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/stotra-sangrahah-telugu/shloka.sty",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16964,
+								17105
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LaTeX/TeX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 475.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 376.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "StotraSamhita-MultiLipi.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Guru",
+				"stotras\\dhyanam\\GuruParampara.tex"
+			],
+			[
+				"shloka-m",
+				"latex-styles\\shloka-multilang.sty"
+			],
+			[
+				"para",
+				"Chapters\\3_DynamicModels\\ParameterEstimation.tex"
+			],
+			[
+				"sbb",
+				"SBBook.bib"
+			],
+			[
+				"SBB",
+				"SBBook.bib"
+			],
+			[
+				"app",
+				"Chapters\\2_NetworkBiology\\ApplicationsOfNetworkBiology.tex"
+			],
+			[
+				"pref",
+				"frontmatter\\preface.tex"
+			],
+			[
+				"MAT",
+				"Chapters\\E_MATLABForSystemsBiology\\MATLABForSystemsBiology.tex"
+			],
+			[
+				"Alon",
+				"Alon.cls"
+			],
+			[
+				"prea",
+				"frontmatter\\preamble.tex"
+			],
+			[
+				"so",
+				"Chapters\\D_SoftwareToolsCompendium\\SoftwareToolsCompendium.tex"
+			],
+			[
+				"alon",
+				"Alon.cls"
+			],
+			[
+				"jaye",
+				"D:\\GitHub\\kamakoti\\Nerur-Shankara-Matham-PDFs\\2020-GuruPujaPaddhati\\ShriJayendraPeriva-devanagari.tex"
+			],
+			[
+				"sb",
+				"SBBook.bib"
+			],
+			[
+				"biol",
+				"Chapters\\A_BiologyFundamentals\\BiologyFundamentals.tex"
+			],
+			[
+				"alt",
+				"Chapters\\AltText.tex"
+			],
+			[
+				"Alt",
+				"Chapters\\AltText.tex"
+			],
+			[
+				"bib",
+				"Bibliography.bib"
+			],
+			[
+				"Cellu",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"desi",
+				"Chapters\\5_AdvancedTopics\\DesigningBiologicalCircuits.tex"
+			],
+			[
+				"appl",
+				"Chapters\\2_NetworkBiology\\ApplicationsOfNetworkBiology.tex"
+			],
+			[
+				"int",
+				"Chapters\\1_IntroductionToModelling\\IntroductionToModelling.tex"
+			],
+			[
+				"robu",
+				"Chapters\\5_AdvancedTopics\\RobustnessEvolvability.tex"
+			],
+			[
+				"pre",
+				"frontmatter\\preamble.tex"
+			],
+			[
+				"flux",
+				"Chapters\\4_ConstraintBasedModelling\\FluxBalanceAnalysis.tex"
+			],
+			[
+				"boo",
+				"Chapters\\3_DynamicModels\\BooleanModels.tex"
+			],
+			[
+				"dynami",
+				"Chapters\\3_DynamicModels\\IntroductionToDynamicModelling.tex"
+			],
+			[
+				"Flu",
+				"Chapters\\4_ConstraintBasedModelling\\FluxBalanceAnalysis.tex"
+			],
+			[
+				"p",
+				"frontmatter\\preamble.tex"
+			],
+			[
+				"rob",
+				"Chapters\\5_AdvancedTopics\\RobustnessEvolvability.tex"
+			],
+			[
+				"intr",
+				"Chapters\\1_IntroductionToModelling\\IntroductionToModelling.tex"
+			],
+			[
+				"the",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"ro",
+				"Chapters\\5_AdvancedTopics\\RobustnessEvolvability.tex"
+			],
+			[
+				"model",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"pert",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"other",
+				"Chapters\\4_ConstraintBasedModelling\\OtherConstraint-basedApproaches.tex"
+			],
+			[
+				"flu",
+				"Chapters\\4_ConstraintBasedModelling\\FluxBalanceAnalysis.tex"
+			],
+			[
+				"in",
+				"Chapters\\3_DynamicModels\\IntroductionToDynamicModelling.tex"
+			],
+			[
+				"cell",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"st",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			],
+			[
+				"intro",
+				"Chapters\\1_IntroductionToModelling\\IntroductionToModelling.tex"
+			],
+			[
+				"al",
+				"Alon.cls"
+			],
+			[
+				"yaml",
+				"latexindent-settings.yaml"
+			],
+			[
+				"run",
+				"run_diagnostics.sh"
+			],
+			[
+				"con",
+				"Chapters\\4_ConstraintBasedModelling\\OtherConstraint-basedApproaches.tex"
+			],
+			[
+				"Int",
+				"Chapters\\1_IntroductionToModelling\\IntroductionToModelling.tex"
+			],
+			[
+				"Intro",
+				"Chapters\\2_NetworkBiology\\IntroductionToGraphTheory.tex"
+			],
+			[
+				"Boo",
+				"Chapters\\3_DynamicModels\\BooleanModels.tex"
+			],
+			[
+				"Other",
+				"Chapters\\4_ConstraintBasedModelling\\OtherConstraint-basedApproaches.tex"
+			],
+			[
+				"mode",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"sbbo",
+				"SBBook.bib"
+			],
+			[
+				"alo",
+				"Alon.cls"
+			],
+			[
+				"Dynami",
+				"Chapters\\3_DynamicModels\\IntroductionToDynamicModelling.tex"
+			],
+			[
+				"pertu",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"prefa",
+				"frontmatter\\preface.tex"
+			],
+			[
+				"per",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"hill",
+				"Chapters\\3_DynamicModels\\figs\\hill_curve.tex"
+			],
+			[
+				"preamb",
+				"frontmatter\\preamble.tex"
+			],
+			[
+				"pa",
+				"Chapters\\3_DynamicModels\\ParameterEstimation.tex"
+			],
+			[
+				"",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"SB",
+				"SBBook-books.bib"
+			],
+			[
+				"s",
+				"SBBook.bib"
+			],
+			[
+				"dynm",
+				"Chapters\\3_DynamicModels\\figs\\dynmod_flowchart.tex"
+			],
+			[
+				"ga_f",
+				"Chapters\\3_DynamicModels\\figs\\ga_flowchart.tex"
+			],
+			[
+				"preface",
+				"frontmatter\\preface.tex"
+			],
+			[
+				"thero",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"ther",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"mom",
+				"Chapters\\4_ConstraintBasedModelling\\figs\\flux_space_moma.tex"
+			],
+			[
+				"pream",
+				"frontmatter\\preamble.tex"
+			],
+			[
+				"pe",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"oth",
+				"Chapters\\4_ConstraintBasedModelling\\OtherConstraint-basedApproaches.tex"
+			],
+			[
+				"centra",
+				"Chapters\\2_NetworkBiology\\figs\\centralities.tex"
+			],
+			[
+				"road",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"struc",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			],
+			[
+				"data",
+				"Chapters\\C_DatabasesForSystemsBiology\\DatabasesForSystemsBiology.tex"
+			],
+			[
+				"alon.c",
+				"Alon.cls"
+			],
+			[
+				"ccir",
+				"Chapters\\5_AdvancedTopics\\DesigningBiologicalCircuits.tex"
+			],
+			[
+				"cross",
+				"cross-refs.txt"
+			],
+			[
+				"edg",
+				"cross-ref-edges.txt"
+			],
+			[
+				"mode c",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"param",
+				"Chapters\\3_DynamicModels\\ParameterEstimation.tex"
+			],
+			[
+				"reco",
+				"Chapters\\B_ReconstructionOfNetworks\\ReconstructionOfNetworks.tex"
+			],
+			[
+				"alon.cls",
+				"Alon.cls"
+			],
+			[
+				"mod cellul",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"str",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			],
+			[
+				"mod ce",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"sys",
+				"Chapters\\5_AdvancedTopics\\SystemsBiologyInHealthAndDisease.tex"
+			],
+			[
+				"The",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"cellu",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"Bibl",
+				"Bibliography.bib"
+			],
+			[
+				"pertur",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"Pert",
+				"Chapters\\4_ConstraintBasedModelling\\PerturbationsToMetabolicNetworks.tex"
+			],
+			[
+				"A",
+				"Chapters\\A_BiologyFundamentals\\BiologyFundamentals.tex"
+			],
+			[
+				"roa",
+				"Chapters\\5_AdvancedTopics\\TheRoadAhead.tex"
+			],
+			[
+				"alon.",
+				"Alon.cls"
+			],
+			[
+				"sof",
+				"Chapters\\D_SoftwareToolsCompendium\\SoftwareToolsCompendium.tex"
+			],
+			[
+				"B_",
+				"Chapters\\B_ReconstructionOfNetworks\\ReconstructionOfNetworks.tex"
+			],
+			[
+				"A_",
+				"Chapters\\A_BiologyFundamentals\\BiologyFundamentals.tex"
+			],
+			[
+				"matl",
+				"Chapters\\E_MATLABForSystemsBiology\\MATLABForSystemsBiology.tex"
+			],
+			[
+				"matla",
+				"codes\\matlab.mat"
+			],
+			[
+				"refs.",
+				"refs.txt"
+			],
+			[
+				"flow",
+				"Chapters\\3_DynamicModels\\figs\\dynmod_flowchart.tex"
+			],
+			[
+				"recon",
+				"Chapters\\B_ReconstructionOfNetworks\\ReconstructionOfNetworks.tex"
+			],
+			[
+				"sbbok",
+				"SBBook.bib"
+			],
+			[
+				"desig",
+				"Chapters\\5_AdvancedTopics\\DesigningBiologicalCircuits.tex"
+			],
+			[
+				"stru",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			],
+			[
+				"Bool",
+				"Chapters\\3_DynamicModels\\BooleanModels.tex"
+			],
+			[
+				"modell",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"appli",
+				"Chapters\\2_NetworkBiology\\ApplicationsOfNetworkBiology.tex"
+			],
+			[
+				"moellin",
+				"Chapters\\5_AdvancedTopics\\ModellingCellularInteractions.tex"
+			],
+			[
+				"no_",
+				"no_dict_words.txt"
+			],
+			[
+				"high",
+				"highly_suspect_words.txt"
+			],
+			[
+				"flx",
+				"Chapters\\4_ConstraintBasedModelling\\FluxBalanceAnalysis.tex"
+			],
+			[
+				"rubstn",
+				"Chapters\\5_AdvancedTopics\\RobustnessEvolvability.tex"
+			],
+			[
+				"Bib",
+				"Bibliography.bib"
+			],
+			[
+				"netow",
+				"Chapters\\2_NetworkBiology\\ApplicationsOfNetworkBiology.tex"
+			],
+			[
+				"sysbio",
+				"Chapters\\1_IntroductionToModelling\\figs\\sysbio-cycle\\sysbio-cycle.tex"
+			],
+			[
+				"dedi",
+				"frontmatter\\dedication.tex"
+			],
+			[
+				".cls",
+				"Alon.cls"
+			],
+			[
+				"sbboo",
+				"SBBook.tex"
+			],
+			[
+				"bool",
+				"Chapters\\3_DynamicModels\\BooleanModels.tex"
+			],
+			[
+				"Str",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			],
+			[
+				"book.bib",
+				"SBBook.bib"
+			],
+			[
+				"modelx-e",
+				"Chapters\\1_IntroductionToModelling\\figs\\models-examples\\models-examples.tex"
+			],
+			[
+				"bi",
+				"Chapters\\A_BiologyFundamentals\\BiologyFundamentals.tex"
+			],
+			[
+				"cent",
+				"Chapters\\2_NetworkBiology\\figs\\centralities.tex"
+			],
+			[
+				"ack",
+				"Chapters\\2_NetworkBiology\\ApplicationsOfNetworkBiology.tex"
+			],
+			[
+				"stu",
+				"Chapters\\2_NetworkBiology\\StructureOfBiologicalNetworks.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Karthik\\GitHub\\panchangam\\Panchangam.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"graye",
+				"\\grayed"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
